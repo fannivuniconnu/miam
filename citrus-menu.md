@@ -24,9 +24,9 @@ Instructions:
 Mimosa: 1/2 Riesling Sekt + 1/2 fresh orange juice
 
 
-### Starter
+## Starter
 
-## Sweet potato and orange soup
+### Sweet potato and orange soup
 
 Ingredients:
 * 1 orange (zest and juice)
@@ -53,7 +53,7 @@ Instructions:
 
 ### Lentil, mushroom and walnut balls with cranberry sauce 
 
-http://ohsheglows.com/2017/11/23/bread-free-stuffing-balls/ 
+[From the OhSheGlows blog](http://ohsheglows.com/2017/11/23/bread-free-stuffing-balls/) 
 For the sauce, we replaced the cranberries with 1/2 fresh cranberries, 1/2 frozen rasperries and cooked it for 30-40 min until it thickened.
 
 ### Fennel and orange salad
@@ -74,7 +74,7 @@ Instructions:
 4. Sprinkle with dill.
 *Even better the day after*
 
-(original recipe, in French: http://www.marmiton.org/recettes/recette_salade-de-fenouil-a-l-orange_22052.aspx)
+[original recipe, in French](http://www.marmiton.org/recettes/recette_salade-de-fenouil-a-l-orange_22052.aspx)
 
 ## Dessert
 
@@ -99,4 +99,6 @@ Instructions:
 
 ### Lemon cake
 
-https://www.bbcgoodfood.com/user/4614791/recipe/vegan-lemon-cake 
+[Recipe](https://www.bbcgoodfood.com/user/4614791/recipe/vegan-lemon-cake)
+
+
