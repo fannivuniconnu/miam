@@ -14,10 +14,12 @@ Ingredients:
 Instructions:
 
 1. Preheat the oven (200°C)
-2. Drain the chickpeas and dry them gently with paper towels.
+2. Drain the chickpeas and dry them gently with paper towels -- keep the water\*
 3. Once they're dry, season them to taste - we used sea salt, black pepper and piment d'espelette
 4. Spread them evenly on a baking tray with parchment paper and bake until roasted - for us it was 15-20 min
 5. Add lemon or lime zests and adjust the seasoning as needed
+
+\* the cooking water of chickpeas (called aquafaba) can be used to make delicious [cookies](/cookies.md) or frozen and used at a later time
 
 ### Pairing cocktail
 
