@@ -7,5 +7,9 @@ Happy cooking and bon appétit!
 
 ## Recipes
 
+Themed menus:
 - [Citrus Menu](/citrus-menu.md)
+- [Xmas Menu](/Xmas-menu.md)
+
+Sweets:
 - [Cookies](/cookies.md)
