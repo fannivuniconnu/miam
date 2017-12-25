@@ -13,3 +13,4 @@ Themed menus:
 
 Sweets:
 - [Cookies](/cookies.md)
+- [Pumpkin madeleines](/pumpkin-madeleines.md)
