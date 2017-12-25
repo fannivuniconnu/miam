@@ -8,9 +8,9 @@ Happy cooking and bon appétit!
 ## Recipes
 
 Themed menus:
-- [Citrus Menu](/citrus-menu.md)
-- [Xmas Menu](/Xmas-menu.md)
+- [Citrus Menu](/citrus-menu.md) - vegan
+- [Xmas Menu](/Xmas-menu.md) - vegan
 
 Sweets:
-- [Cookies](/cookies.md)
-- [Pumpkin madeleines](/pumpkin-madeleines.md)
+- [Cookies](/cookies.md) - vegan
+- [Pumpkin madeleines](/pumpkin-madeleines.md) - vegan
