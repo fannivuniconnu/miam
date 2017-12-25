@@ -1,4 +1,4 @@
-## Pumpkin madeleines
+## Pumpkin madeleines (vegan)
 
 Ingredients:
 
