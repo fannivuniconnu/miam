@@ -11,6 +11,9 @@ Themed menus:
 - [Citrus Menu](/citrus-menu.md) - vegan
 - [Xmas Menu](/Xmas-menu.md) - vegan
 
-Sweets:
+Salé:
+- [Lentils bricks](/lentils-briks.md) - vegan
+
+Sucré:
 - [Cookies](/cookies.md) - vegan
 - [Pumpkin madeleines](/pumpkin-madeleines.md) - vegan
