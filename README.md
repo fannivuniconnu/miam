@@ -27,6 +27,7 @@
 ## Salé:
 * Lentil bricks
 * Lentils and pumpkin seeds spread
+* Zwiebelkuchen (onion cake)
 
 
 ---
