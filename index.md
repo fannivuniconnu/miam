@@ -10,6 +10,7 @@ Happy cooking and bon appétit!
 Themed menus:
 - [Citrus Menu](/citrus-menu.md) - vegan
 - [Xmas Menu](/Xmas-menu.md) - vegan
+- [New Year's Eve Buffet](/NYE-2017.md) - vegan
 
 Salé:
 - [Lentils bricks](/lentils-briks.md) - vegan
