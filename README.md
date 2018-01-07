@@ -19,16 +19,16 @@
 * *Dessert:* lemon cake
 
 
-## Sucré:
-* Chocolate chip cookies
-* Pumpkin madeleines
-
-
 ## Salé:
 * Lentil bricks
 * Lentils and pumpkin seeds spread
 * Zwiebelkuchen (onion cake)
 
+
+## Sucré:
+* Chocolate chip cookies
+* Pumpkin madeleines
+* Tiramisu
 
 ---
 Links to recipe pages are to be added in the index: themed menus, sucré, salé or drinks
