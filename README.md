@@ -1,3 +1,7 @@
++ Links to recipe pages are to be added in the index: themed menus, sucré, salé or drinks
++ The name of the recipes is to be added in the README so they're easier to retrieve
+---
+
 # miam
 
 ## Themed menus
@@ -30,6 +34,3 @@
 * Pumpkin madeleines
 * Tiramisu
 
----
-Links to recipe pages are to be added in the index: themed menus, sucré, salé or drinks
-The name of the recipes is to be added in the README so they're easier to retrieve
