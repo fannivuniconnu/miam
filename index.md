@@ -14,6 +14,7 @@ Themed menus:
 
 Salé:
 - [Lentils bricks](/lentils-briks.md) - vegan
+- [Lentils and pumpkin seeds spread](/lentils-spread.md) - vegan
 
 Sucré:
 - [Cookies](/cookies.md) - vegan
