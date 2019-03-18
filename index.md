@@ -21,3 +21,4 @@ Sucré:
 - [Cookies](/cookies.md) - vegan
 - [Pumpkin madeleines](/pumpkin-madeleines.md) - vegan
 - [Tiramisu](/tiramisu.md) - vegan
+- [Lemon meringue pie](/lemon-meringue-pie.md)
